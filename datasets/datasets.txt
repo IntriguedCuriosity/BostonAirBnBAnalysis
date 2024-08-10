@@ -1,0 +1,4 @@
+This directory should contain below 3 datasets:
+listings.csv: Contains detailed information about each Airbnb listing in Boston.
+reviews.csv: Includes the reviews left by guests for various listings.
+calendar.csv: Provides availability and price information for each listing over a specific period.
