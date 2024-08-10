@@ -15,7 +15,9 @@ Datasets Used
 The analysis is done on the basis of three datasets available on Kaggle, also attached in the repository:
 
 listings.csv: Detailed information about every listing available on Airbnb in Boston.
+
 reviews.csv: All the reviews left by guests for listings.
+
 calendar.csv: Info on availability and cost for every listing for some period.
 
 Repository Structure
