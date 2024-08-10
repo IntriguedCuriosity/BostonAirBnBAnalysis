@@ -11,7 +11,7 @@ This project's purpose is to enlighten both travelers and hosts of the most comm
 4. Are there any price trends over time?
 5. What neighborhoods do guests love the most?
 
-#Datasets Used
+# Datasets Used
 The analysis is done based on three datasets available on Kaggle https://www.kaggle.com/datasets/airbnb/boston, also attached in the repository:
 
 listings.csv: Detailed information about every listing available on Airbnb in Boston.
@@ -20,7 +20,7 @@ reviews.csv: All the reviews left by guests for listings.
 
 calendar.csv: Info on availability and cost for every listing for some period.
 
-#Repository Structure
+# Repository Structure
 README.md: This file provides an overview of the project, its motivation, and how the repository is structured.
 Boston_Airbnb_Analysis.ipynb: This is the actual Jupyter notebook where the analysis was conducted. This includes loading data, cleaning, exploration, and visualizing, with insights derived from the data.
 datasets/: The datasets used in the analysis: listings.csv, reviews.csv, calendar.csv.
@@ -39,7 +39,7 @@ NLTK: Natural Language Processing and keyword extraction from reviews.
 wordcloud
 langdetect
 
-#Results Summary
+# Results Summary
 Below are the key findings from our analysis:
 
 Sentiment Analysis: No clear linear relationship was found to exist between price and sentiment scores. There were positive reviews in all price ranges, which means that there are probably other drivers like quality of service, cleanliness, and neighborhood that drive customer decisions and not just price alone.
@@ -64,7 +64,7 @@ jupyter notebook Boston_Airbnb_Analysis.ipynb
 4. Run the cells in the notebook to see the analysis and visualizations.
 
 
-#Acknowledgments:
+# Acknowledgments:
 The datasets used in this project are provided by Kaggle Boston Airbnb Dataset.
 The libraries and tools used in this project are open-source and maintained by their respective communities.
 
