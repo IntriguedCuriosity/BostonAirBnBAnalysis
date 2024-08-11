@@ -59,9 +59,10 @@ git clone https://github.com/IntriguedCuriosity/BostonAirBnBAnalysis.git
 pip install -r requirements.txt
 
 3. Open the Jupyter Notebook:
+cd to the path where you have extracted below python file and then run the command:
 jupyter notebook Boston_Airbnb_Analysis.ipynb
 
-4. Run the cells in the notebook to see the analysis and visualizations.
+5. Run the cells in the notebook to see the analysis and visualizations.
 
 
 # Acknowledgments:
