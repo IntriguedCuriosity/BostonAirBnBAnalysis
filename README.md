@@ -1,3 +1,5 @@
+Read my blog on this at: https://medium.com/@arshad.haque555/unveiling-boston-with-airbnb-how-jamaica-plain-was-the-winner-1737c0bc5e22
+
 # BostonAirBnBAnalysis
 Overview
 This project looks into Airbnb markets in Boston, with an emphasis on the relationship between price and review. Several other factors are considered in this research in order to really get a feel for what matters in guest satisfaction. In this study, Kaggle datasets were used to extract useful insights for both prospective guests and hosts in making effective decisions.
